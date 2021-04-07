@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiara-aleecia
+- 👋🏾 Hi, I’m @kiara-aleecia
 - 👀 I’m interested in ... cybersecurity and travelling
 - 🌱 I’m currently learning ... Java, C, Linux
 - 💞️ I’m looking to collaborate on ...
