@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m @kiara-aleecia
-- 👀 I’m interested in ... cybersecurity and travelling
+- 👀 I’m interested in ... cybersecurity, web development, and APIs.
 - 🌱 I’m currently learning ... Java, C, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
