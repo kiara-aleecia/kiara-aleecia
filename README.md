@@ -1,6 +1,8 @@
 - 👋🏾 Hi, I’m @kiara-aleecia
 - 👀 I’m interested in ... cybersecurity, web development, and APIs.
-- 🌱 I’m currently learning ... Java, C, Linux
+- 🌱 I’m currently learning ... Java, Python
+
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
