@@ -1,8 +1,6 @@
 - 👋🏾 Hi, I’m @kiara-aleecia
 - 👀 I’m interested in cybersecurity, web development, and APIs
 - 🌱 I’m currently learning Java, JavaScript, Python, and R
-- <p><red> red color markdown text</red>
-<yellow> red color markdown text</yellow></p>
 
 <!---
 - 💞️ I’m looking to collaborate on ...
