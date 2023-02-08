@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, JavaScript, Python, and R
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiara-aleecia&theme=onedarkrank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiara-aleecia&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kiara-aleecia.README.md&left_color=green&right_color=blue&left_text=fanclub)
