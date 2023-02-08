@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, JavaScript, Python, and R
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kiara-aleecia.README.md&left_color=red&right_color=green&left_text=fanclub)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kiara-aleecia.README.md&left_color=green&right_color=blue&left_text=fanclub)
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
