@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Java, JavaScript, Python, and R
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiara-aleecia&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kiara-aleecia.README.md&left_color=green&right_color=blue&left_text=fanclub)
 <!---
 - 💞️ I’m looking to collaborate on ...
