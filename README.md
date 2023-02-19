@@ -1,5 +1,5 @@
 # 👋🏾 Hi, I’m Kiara :D
-- 👀 I’m interested in cybersecurity, web development, and APIs
+- 👀 I’m interested in cybersecurity, machine learning, web development, and APIs
 - 🌱 I’m currently learning Java, JavaScript, Python, and R
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/kiara-madeam/)
 
