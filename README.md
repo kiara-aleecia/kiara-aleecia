@@ -1,23 +1,22 @@
 # 👋🏾 Hi, I’m Kiara :D
-- 👀 I’m interested in cybersecurity, machine learning, and web development
-- 🌱 I’m currently learning C#, React/JavaScript/Typescript, Java, and Python
+- 👀 I’m interested in cybersecurity, web development, and cloud engineering
+- 🌱 I’m currently studying for the AZ-104 certification (Azure Administrator Associate)
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/kiara-madeam/)
 
 
 
 # 💼 Experience
 ## Paycom — Software Developer
-JUNE 2023 - PRESENT
-- Maintain desktop application used to manage year-end tax forms for domestic clients
-- Develop web application used to manage year-end tax forms for international clients
-- Communicate with technical and non-technical colleagues to deliver high-quality features
-- Streamline procedures and enable compliance relevant to production of tax forms across different regions
-- Using: C#, .NET Framework, SQL, React/Javascript
+JUNE 2023 - DECEMBER 2025
+- Delivered critical tax compliance updates impacting 38,000+ domestic and international clients, reducing post-filing errors and improving client experience through refined filtering, batch actions, and validation logic
+- Debugged and resolved critically escalated production incidents under 24-hour SLA deadlines, tracing issues across React and legacy WinForms frontend components, C# backend services, and SQL data layers to restore functionality for enterprise clients
+- Upgraded cross-module tax form printing workflows, including onboarding new tax forms for international clients and implementing compliance-driven enhancements, which supported on-time delivery and reduced manual intervention by 30% for thousands of federal notices and filings
+- Implemented migration from FedEx Integrator (FXI) to in-house label printing system ahead of deprecation, ensuring continuity for high-volume production shipments
+- Used: C#, .NET Framework, SQL, React/Javascript
 ## United Services Automobile Association (USAA) — Software Engineer Intern
 JUNE 2022 - AUGUST 2022
-- Integrated Account Aggregator API to existing tool to optimize on-call troubleshooting procedures
-- Created detailed project documentation using company conventions
-- Analyzed existing Account Aggregator code to enhance REST API knowledge and better understand team stories and meetings
+- Integrated Account Aggregator API to existing tool to optimize internal troubleshooting procedures and reduce on-call diagnostic time
+- Authored project documentation to support maintainability and cross-team knowledge transfer
 - Used: Java, Postman, REST APIs, Agile
 ## Association for Computing Machinery (ACM) UTD — Officer/Mentor
 JUNE 2021 - MAY 2023
@@ -25,9 +24,6 @@ JUNE 2021 - MAY 2023
 - Mentored incoming freshman STEM majors
 - Facilitated technical workshops and industry events
 
-
-# 💻 Github Stats
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kiara-aleecia&theme=gruvbox&rank=SECRET,B&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 💟 Visitors
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kiara-aleecia.README.md&left_color=purple&right_color=blue&left_text=fanclub)
